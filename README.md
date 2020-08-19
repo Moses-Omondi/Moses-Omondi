@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Build more personal projects
 
+<hr/>
+
 ### Connect with me:
 
 [<img align="left" alt="MufasaToday | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -16,6 +18,7 @@
 
 <br />
 <br />
+<hr />
 
 ### Languages and Tools:
 

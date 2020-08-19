@@ -32,5 +32,6 @@
 <br />
 <br />
 
-## Github Stats:
+## Github Stats
+
 [![Moses' github stats](https://github-readme-stats.vercel.app/api?username=Moses-Omondi&theme=vision-friendly-dark&show_icons=true)](https://github.com/Moses-Omondi/github-readme-stats)

@@ -32,8 +32,6 @@
 <br />
 <br />
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moses-Omondi)](https://github.com/Moses-Omondi/github-readme-stats)
 
 <br />

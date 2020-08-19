@@ -40,4 +40,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ## Github Stats
 
-[![Moses' github stats](https://github-readme-stats.vercel.app/api?username=Moses-Omondi&theme=vision-friendly-dark&show_icons=true)](https://github.com/Moses-Omondi/github-readme-stats)
+[![Moses' github stats](https://github-readme-stats.vercel.app/api?username=Moses-Omondi&theme=algolia&show_icons=true)](https://github.com/Moses-Omondi/github-readme-stats)

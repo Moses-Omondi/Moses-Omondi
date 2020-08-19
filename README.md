@@ -35,7 +35,6 @@
 <br />
 
 ---
----
 
 [twitter]: https://twitter.com/MufasaToday
 [github]: https://github.com/Moses-Omondi

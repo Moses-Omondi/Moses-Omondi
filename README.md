@@ -31,9 +31,6 @@
 
 <hr />
 
-<details>
-  <summary>:zap: Github Stats<summary>
+### Github Stats:
 
 [![Moses' github stats](https://github-readme-stats.vercel.app/api?username=Moses-Omondi)](https://github.com/Moses-Omondi/github-readme-stats)
-
-</details>

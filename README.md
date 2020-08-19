@@ -33,14 +33,14 @@
 
 ### Github Stats:
 
-<br />
-
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Moses-Omondi's Github Stats" src="https://github-readme-stats.Moses-Omondi.vercel.app/api?username=Moses-Omondi&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
 
 [twitter]: https://twitter.com/MufasaToday
 [github]: https://github.com/Moses-Omondi

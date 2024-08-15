@@ -4,10 +4,10 @@
 
 ## I'm a Student, Developer, Data Science enthusiast!
 
-- 🔭 I’m currently working on my Reactjs proficiency !
-- 🌱 I’m currently learning to be a MERN stack developer and a Data Scientist 🤣
+- 🔭 I’m currently Java & SpringBoot Developer !
+- 🌱 I’m currently learning everyday
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Build more personal projects
+- 🥅 2024 Goals: Build more personal projects
 
 ### Connect with me:
 
